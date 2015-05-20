@@ -1,6 +1,6 @@
 # lita-snack
 
-TODO: Add a description of the plugin.
+Give your Lita bot a snack
 
 ## Installation
 
@@ -12,8 +12,21 @@ gem "lita-snack"
 
 ## Configuration
 
-TODO: Describe any configuration attributes the plugin exposes.
+No configuration needed
 
 ## Usage
 
-TODO: Describe the plugin's features and how to use them.
+```
+You: @lita have a snack
+Lita: 'Thank you very much!'
+```
+
+There are five different responses that Lita will randomly respond with.
+
+Responses:
+'Om nom nom!'
+'That is very nice of you!'
+'Oh thanks! Have a cookie yourself!'
+'Thank you very much!'
+'Thanks for the treat!'
+
