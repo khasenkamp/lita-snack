@@ -1,7 +1,7 @@
 # lita-snack
 
 Give your Lita bot a snack. This plugin was inspired by botsnack, from hubot-scripts.
-`https://github.com/github/hubot-scripts/blob/master/src/scripts/botsnack.coffee`
+https://github.com/github/hubot-scripts/blob/master/src/scripts/botsnack.coffee
 
 ## Installation
 
