@@ -1,5 +1,6 @@
 *.gem
 *.rbc
+.idea
 .bundle
 .config
 .yardoc
@@ -15,4 +16,3 @@ spec/reports
 test/tmp
 test/version_tmp
 tmp
-.idea
